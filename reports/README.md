@@ -70,5 +70,5 @@ The project uses **Matplotlib** and **Seaborn** for clear, professional charts.
 ## 🚀 How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/Sales_Performance_Analysis.git
+   git clone https://github.com/HimashMadushanka/Sales_Performance_Analysis.git
    cd Sales_Performance_Analysis
