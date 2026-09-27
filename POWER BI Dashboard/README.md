@@ -4,6 +4,7 @@
 The **Sales Performance Dashboard** is an interactive Power BI report built to analyze and visualize sales performance using the *Superstore* dataset.  
 It provides insights into revenue, profit, quantity, customer segments, and regional trends — helping users make data-driven decisions.
 
+![alt text](Sales_Performance_Dashboard.PNG)
 ---
 
 ## 🎯 Objectives
@@ -55,13 +56,4 @@ It provides insights into revenue, profit, quantity, customer segments, and regi
 
 ---
 
-## 👨‍💻 Developed By
-**K. Himash Madushanka**  
-Student ID: 22CDS0420  
-Course: Data Science  
-Sabaragamuwa University of Sri Lanka  
 
----
-
-## 🧾 License
-This project is for **academic and learning purposes** only.
